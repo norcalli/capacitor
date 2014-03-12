@@ -1,5 +1,7 @@
-capacitor
+Capacitor Code Calculator
 =========
+
+###Release binaries are available [here](https://github.com/norcalli/capacitor/releases).
 
 Simple capacitor code calculator on the command line written in Go and Python.
 
