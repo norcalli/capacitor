@@ -1,6 +1,8 @@
 Capacitor Code Calculator
 =========
 
+[![Join the chat at https://gitter.im/norcalli/capacitor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/norcalli/capacitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ###Release binaries are available [here](https://github.com/norcalli/capacitor/releases).
 
 Simple capacitor code calculator on the command line written in Go and Python.
